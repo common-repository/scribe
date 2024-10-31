@@ -1,0 +1,5 @@
+<ul id="ecordia-seo-analysis-requirement-list">
+	<li id="ecordia-seo-analysis-requirement-title" class="incomplete"><span class="incomplete"><?php esc_html_e( 'Custom Title Tag Required' , 'scribe'); ?></span><span class="complete"><?php esc_html_e( 'Title Tag Ready' , 'scribe'); ?></span></li>
+	<li id="ecordia-seo-analysis-requirement-description" class="incomplete"><span class="incomplete"><?php esc_html_e( 'Meta Description Required' , 'scribe'); ?></span><span class="complete"><?php esc_html_e( 'Meta Description Ready' , 'scribe'); ?></span></li>
+	<li id="ecordia-seo-analysis-requirement-content" class="incomplete"><span class="incomplete"><?php esc_html_e( 'Content Required' , 'scribe'); ?></span><span class="complete"><?php esc_html_e( 'Content Ready' , 'scribe'); ?></span></li>
+</ul>

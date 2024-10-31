@@ -1,0 +1,1915 @@
+# Copyright (C) 2015 Copyblogger Media
+# This file is distributed under the same license as the Scribe package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scribe 4.0.17\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2015-09-29 21:47:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: StudioPress <translations@studiopress.com>\n"
+"Language-Team: English <translations@studiopress.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#: lib/class-admin.php:95
+msgid "Save Settings"
+msgstr ""
+
+#: lib/class-admin.php:96
+msgid "Reset Settings"
+msgstr ""
+
+#: lib/class-admin.php:97
+msgid "Settings saved."
+msgstr ""
+
+#: lib/class-admin.php:98
+msgid "Settings reset."
+msgstr ""
+
+#: lib/class-admin.php:107
+msgid ""
+"You cannot use %s to create two menus in the same subclass. Please use "
+"separate subclasses for each menu."
+msgstr ""
+
+#: lib/class-admin.php:387 lib/class-admin.php:396 lib/class-admin.php:505
+#: lib/class-admin.php:522
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: lib/history/scribe.php:72 scribe.php:428
+msgid "Scribe v3 Score"
+msgstr ""
+
+#: lib/history/scribe.php:203
+msgid "SEO Score"
+msgstr ""
+
+#: lib/history/scribe.php:204 lib/history/views/popup/keyword-analysis.php:42
+#: scribe.php:592
+msgid "Keyword Analysis"
+msgstr ""
+
+#: lib/history/scribe.php:205
+msgid "Change Keywords"
+msgstr ""
+
+#: lib/history/scribe.php:206
+msgid "Alternate Keywords"
+msgstr ""
+
+#: lib/history/scribe.php:207 scribe.php:594
+msgid "Tags"
+msgstr ""
+
+#: lib/history/scribe.php:208
+msgid "SERP"
+msgstr ""
+
+#: lib/history/scribe.php:209
+msgid "SEO Best Practices"
+msgstr ""
+
+#: lib/history/scribe.php:212
+msgid "Debug Info"
+msgstr ""
+
+#: lib/history/scribe.php:218 views/backend/link-building/connections.php:5
+#: views/backend/meta-boxes/connections.php:5
+msgid "External Links"
+msgstr ""
+
+#: lib/history/scribe.php:219 views/backend/link-building/connections.php:6
+msgid "Internal Links"
+msgstr ""
+
+#: lib/history/scribe.php:220 views/backend/keyword-research/suggestions.php:9
+#: views/backend/link-building/connections.php:7
+#: views/backend/meta-boxes/connections.php:6
+msgid "Social Media"
+msgstr ""
+
+#: lib/history/scribe.php:261
+msgid "All in One SEO Pack Plugin"
+msgstr ""
+
+#: lib/history/scribe.php:264
+msgid "Headway Theme"
+msgstr ""
+
+#: lib/history/scribe.php:267
+msgid "Hybrid Theme"
+msgstr ""
+
+#: lib/history/scribe.php:270
+msgid "Genesis Theme"
+msgstr ""
+
+#: lib/history/scribe.php:273
+msgid "Thesis Theme"
+msgstr ""
+
+#: lib/history/scribe.php:276
+msgid "FV All in One SEO Pack"
+msgstr ""
+
+#: lib/history/scribe.php:279
+msgid "WooThemes"
+msgstr ""
+
+#: lib/history/scribe.php:282
+msgid "unable to detected theme/plugin"
+msgstr ""
+
+#: lib/history/scribe.php:282
+msgid ""
+"Please select the \"Choose the SEO tool\" option below. To see a list of "
+"compatible plugins and themes go to "
+msgstr ""
+
+#: lib/history/scribe.php:497
+msgid "You must set an API key."
+msgstr ""
+
+#: lib/history/scribe.php:511
+msgid "Fetching Information..."
+msgstr ""
+
+#: lib/history/views/meta-box/after.php:14
+#: views/backend/keyword-research/details.php:29
+msgid "Content Score"
+msgstr ""
+
+#: lib/history/views/meta-box/after.php:15
+msgid "%1$d%%"
+msgstr ""
+
+#: lib/history/views/meta-box/after.php:18
+msgid "Primary Keywords"
+msgstr ""
+
+#: lib/history/views/meta-box/after.php:20
+msgid "No Primary Keywords Found."
+msgstr ""
+
+#: lib/history/views/meta-box/after.php:35
+#: views/backend/meta-boxes/content-analysis.php:70
+#: views/backend/meta-boxes/link-building.php:28
+msgid "Review"
+msgstr ""
+
+#: lib/history/views/meta-box/before.php:3 scribe.php:467 scribe.php:474
+#: views/backend/content-analysis/document-analysis.php:14
+#: views/backend/content-analysis/keyword-analysis.php:15
+#: views/backend/meta-boxes/content-analysis.php:11
+#: views/backend/meta-boxes/content-analysis.php:25
+msgid "N/A"
+msgstr ""
+
+#: lib/history/views/meta-box/error.php:2
+msgid ""
+"The Scribe plugin is not configured correctly.  Please check the <a "
+"target=\"_blank\" href=\"%s\">plugin settings</a> page for more details."
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:2
+msgid "Custom Title Tag Required"
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:2
+#: views/backend/meta-boxes/content-analysis.php:42
+msgid "Title Tag Ready"
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:3
+msgid "Meta Description Required"
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:3
+#: views/backend/meta-boxes/content-analysis.php:50
+msgid "Meta Description Ready"
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:4
+msgid "Content Required"
+msgstr ""
+
+#: lib/history/views/meta-box/validation-list.php:4
+#: views/backend/meta-boxes/content-analysis.php:58
+msgid "Content Ready"
+msgstr ""
+
+#: lib/history/views/popup/alternate-keyword-table.php:6
+msgid "No alternate keywords found"
+msgstr ""
+
+#: lib/history/views/popup/alternate-keyword-table.php:13
+#: lib/history/views/popup/alternate-keyword-table.php:19
+msgid "Alternate Keyword Suggestions"
+msgstr ""
+
+#: lib/history/views/popup/alternate-keyword-table.php:14
+#: lib/history/views/popup/alternate-keyword-table.php:20
+msgid "Relative Search Frequency"
+msgstr ""
+
+#: lib/history/views/popup/error.php:11
+msgid "Upgrade your Ecordia account under Settings."
+msgstr ""
+
+#: lib/history/views/popup/error.php:13
+msgid "Go to Settings"
+msgstr ""
+
+#: lib/history/views/popup/error.php:13 lib/history/views/popup/error.php:18
+msgid "Close"
+msgstr ""
+
+#: lib/history/views/popup/keyword-alternates.php:32
+msgid "No Primary, Important, or Significant keywords found."
+msgstr ""
+
+#: lib/history/views/popup/keyword-alternates.php:41
+msgid "Click a keyword below to see alternate suggestions."
+msgstr ""
+
+#: lib/history/views/popup/keyword-alternates.php:53
+msgid "Fetching alternate keywords..."
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:6
+msgid "Contextual Analysis"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:21
+msgid ""
+"The term %s is emphasized within your content and is considered a Primary "
+"Keyword."
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:23
+msgid ""
+"The terms %s and %s are emphasized within your content and are considered "
+"Primary Keywords."
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:27
+msgid ""
+"The terms %s, and %s are emphasized within your content and are considered "
+"Primary Keywords."
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:49
+#: views/backend/keyword-research/suggestions.php:26
+#: views/backend/keyword-research/suggestions.php:27
+#: views/backend/keyword-research/suggestions.php:52
+#: views/backend/keyword-research/suggestions.php:53
+msgid "Keywords"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:50
+#: views/backend/content-analysis/keyword-analysis.php:64
+#: views/backend/content-analysis/keyword-analysis.php:75
+msgid "Rank"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:51
+#: views/backend/content-analysis/keyword-analysis.php:65
+#: views/backend/content-analysis/keyword-analysis.php:76
+msgid "Prominence"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:52
+#: views/backend/content-analysis/keyword-analysis.php:66
+#: views/backend/content-analysis/keyword-analysis.php:77
+msgid "Frequency"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:53
+#: views/backend/content-analysis/keyword-analysis.php:67
+#: views/backend/content-analysis/keyword-analysis.php:78
+msgid "Density"
+msgstr ""
+
+#: lib/history/views/popup/keyword-analysis.php:59
+msgid "No keywords found."
+msgstr ""
+
+#: lib/history/views/popup/score.php:19
+msgid "Overall"
+msgstr ""
+
+#: lib/history/views/popup/score.php:20
+#: views/backend/meta-boxes/content-analysis.php:55
+msgid "Content"
+msgstr ""
+
+#: lib/history/views/popup/score.php:21
+#: views/backend/content-analysis/document-analysis.php:31
+msgid "Analysis &amp; Recommendations"
+msgstr ""
+
+#: lib/history/views/popup/score.php:27
+msgid "%d%%"
+msgstr ""
+
+#: lib/scribe-api.php:104 lib/scribe-api.php:166 lib/scribe-api.php:218
+#: lib/scribe-api.php:271 lib/scribe-api.php:289 lib/scribe-api.php:306
+#: lib/scribe-api.php:371
+msgid "An unknown error occurred when contacting the Scribe SEO API service."
+msgstr ""
+
+#: lib/scribe-api.php:254
+msgid "An invalid analysis type was provided."
+msgstr ""
+
+#: lib/scribe-api.php:393
+msgid ""
+"An API Key must be provided in order to make requests from the Scribe SEO "
+"API service."
+msgstr ""
+
+#: lib/scribe-api.php:436
+msgid "The system could not decode the response from the Scribe SEO API server."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:71
+msgid ""
+"Congratulations, this term strikes a good balance between search "
+"optimization and copywriting best practices."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:72
+msgid ""
+"You're close! This keyword requires a bit more work to reach the correct "
+"balance between search optimization and copywriting best practices."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:73
+msgid ""
+"You need to integrate this keyword more closely into your copy to achieve a "
+"better score and make it more relevant."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:74
+msgid "Please reevaluate your use of this keyword to improve its ranking."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:109
+msgid ""
+"While terms like <strong>%1$s</strong> and <strong>%2$s</strong> appear in "
+"your page, your site does not use these terms frequently. Consider adding "
+"more content to your site for these terms. %3$s"
+msgstr ""
+
+#: lib/scribe-display-helpers.php:114
+msgid ""
+"This page is a good match for your site for terms like "
+"<strong>%1$s</strong> and <strong>%2$s</strong>. %3$s"
+msgstr ""
+
+#: lib/scribe-display-helpers.php:115
+msgid ""
+"To improve your Site Score, consider adding more content related to these "
+"terms."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:151 lib/scribe-display-helpers.php:199
+msgid "</strong> and <strong>"
+msgstr ""
+
+#: lib/scribe-display-helpers.php:156
+msgid ""
+"While the terms <strong>%s</strong> are used in your page, they are not "
+"used frequently enough on your site. Consider adding more content to your "
+"site for these terms."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:158
+msgid ""
+" To improve your Site Score, consider adding more content related to "
+"<strong>%s</strong>, so that this page better aligns with your site."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:169
+msgid ""
+"Your page needs some improvement. Review the suggestions under Improve Page "
+"Structure to raise your score."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:199
+msgid ""
+"Your page does a good job of meeting the best practices of SEO Copywriting "
+"for the term <strong>%s</strong>."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:202
+msgid "Your page does a good job of meeting the best practices of SEO Copywriting."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:224
+msgid ""
+"Getting connections to your site for the term <strong>%s</strong> will be "
+"difficult. <a href=\"http://www.copyblogger.com/content-marketing\" "
+"target=\"_blank\">Click here</a> to study a few useful tutorials that will "
+"help you write the kind of content your audience is looking for. "
+msgstr ""
+
+#: lib/scribe-display-helpers.php:229
+msgid "You have plenty of connections for the phrase you've chosen."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:230
+msgid "You have a lot of connections, but need more for this phrase."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:231
+msgid "You need to generate a lot more connections for this phrase."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:241
+msgid ""
+"It will not be difficult for you to rank on a search engine for this "
+"keyword."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:242
+msgid "This term will be somewhat difficult for you to rank for on a search engine."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:257 lib/scribe-display-helpers.php:276
+#: lib/scribe-display-helpers.php:295 lib/scribe-display-helpers.php:314
+msgid "Great! You have an awesome score!"
+msgstr ""
+
+#: lib/scribe-display-helpers.php:258
+msgid "Consider adding more content to your site for this term."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:259
+msgid ""
+"Your site exceeds the amount of content for this term for sites that are "
+"ranking."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:277
+msgid "You will need to obtain more links to your site for this term."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:278
+msgid ""
+"Your site exceeds the number of links for sites that currently rank for "
+"this term."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:296
+msgid ""
+"You should obtain more links for this term from sites that have strong "
+"authority."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:297
+msgid ""
+"Your site’s authority exceeds the authority of most sites that rank for "
+"this term."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:315
+msgid ""
+"You should have more people sharing your content online in order to rank "
+"well for this term."
+msgstr ""
+
+#: lib/scribe-display-helpers.php:316
+msgid "Your site’s content for this term is highly socialized."
+msgstr ""
+
+#: lib/scribe-google.php:26
+msgid "Please provide a search term."
+msgstr ""
+
+#: lib/scribe-google.php:43 lib/scribe-google.php:48
+msgid "The XML from the Google Completion API could not be loaded appropriately."
+msgstr ""
+
+#: lib/scribe-support.php:17
+msgid "WordPress Version"
+msgstr ""
+
+#: lib/scribe-support.php:18
+msgid "PHP Version"
+msgstr ""
+
+#: lib/scribe-support.php:19
+msgid "Scribe Installed?"
+msgstr ""
+
+#: lib/scribe-support.php:20
+msgid "Scribe Version"
+msgstr ""
+
+#: lib/scribe-support.php:21
+msgid "Scribe API Key"
+msgstr ""
+
+#: lib/scribe-support.php:22
+msgid "Activated Dependency"
+msgstr ""
+
+#: lib/scribe-support.php:23
+msgid "SSL Connect"
+msgstr ""
+
+#: lib/scribe-support.php:24
+msgid "Non-SSL Connect"
+msgstr ""
+
+#: lib/scribe-support.php:25
+msgid "Web Server"
+msgstr ""
+
+#: lib/scribe-support.php:26
+msgid "Server IP"
+msgstr ""
+
+#: lib/scribe-support.php:27
+msgid "Installed Themes"
+msgstr ""
+
+#: lib/scribe-support.php:28
+msgid "Activated Theme"
+msgstr ""
+
+#: lib/scribe-support.php:29
+msgid "Installed Plugins"
+msgstr ""
+
+#: lib/scribe-support.php:30
+msgid "Activated Plugins"
+msgstr ""
+
+#: lib/scribe-support.php:77 lib/scribe-support.php:80
+msgid "Could not determine selected dependency."
+msgstr ""
+
+#: lib/scribe-support.php:91
+msgid "Could not connect via SSL to api.scribeseo.com."
+msgstr ""
+
+#: lib/scribe-support.php:93
+msgid "Successfully connected via SSL to api.scribeseo.com"
+msgstr ""
+
+#: lib/scribe-support.php:104
+msgid "Could not connect via non-SSL to api.scribeseo.com."
+msgstr ""
+
+#: lib/scribe-support.php:106
+msgid "Successfully connected via non-SSL to api.scribeseo.com"
+msgstr ""
+
+#: lib/scribe-support.php:115
+msgid "Could not determine server software."
+msgstr ""
+
+#: lib/scribe-support.php:124
+msgid "Could not determine server IP."
+msgstr ""
+
+#: lib/scribe-support.php:133
+msgid "Yes"
+msgstr ""
+
+#: lib/scribe-support.php:133
+msgid "No"
+msgstr ""
+
+#: lib/scribe-support.php:140
+msgid "Could not determine the Scribe SEO version."
+msgstr ""
+
+#: lib/scribe-support.php:151
+msgid "Could not determine the Scribe API Key"
+msgstr ""
+
+#: scribe.php:224 scribe.php:242 scribe.php:261 scribe.php:301 scribe.php:377
+msgid "Invalid request."
+msgstr ""
+
+#: scribe.php:353
+msgid " and "
+msgstr ""
+
+#: scribe.php:387 scribe.php:659
+msgid "Site Connections"
+msgstr ""
+
+#: scribe.php:388
+msgid "Account"
+msgstr ""
+
+#: scribe.php:392
+msgid "Compatibility"
+msgstr ""
+
+#: scribe.php:397
+msgid "SEO News"
+msgstr ""
+
+#: scribe.php:401
+msgid "Scribe Help"
+msgstr ""
+
+#: scribe.php:418
+msgid "Scribe Keyword Research"
+msgstr ""
+
+#: scribe.php:419
+msgid "Scribe Content Optimizer"
+msgstr ""
+
+#: scribe.php:420
+msgid "Scribe Link Building"
+msgstr ""
+
+#: scribe.php:424
+msgid "Scribe Page Score"
+msgstr ""
+
+#: scribe.php:425
+msgid "Scribe Site Score"
+msgstr ""
+
+#: scribe.php:426
+msgid "Scribe Keywords"
+msgstr ""
+
+#: scribe.php:458
+msgid "Awaiting Analysis"
+msgstr ""
+
+#: scribe.php:482
+msgid "None"
+msgstr ""
+
+#: scribe.php:540 views/backend/meta-boxes/content-analysis.php:70
+msgid "Content Analysis"
+msgstr ""
+
+#: scribe.php:541
+msgid "Keyword Research"
+msgstr ""
+
+#: scribe.php:572
+msgid "Your results were successfully sent to the Copyblogger support team."
+msgstr ""
+
+#: scribe.php:574
+msgid ""
+"There was an issue sending your report. Please copy the below information "
+"and email it directly to %s."
+msgstr ""
+
+#: scribe.php:593
+msgid "Page Analysis"
+msgstr ""
+
+#: scribe.php:595
+msgid "Help"
+msgstr ""
+
+#: scribe.php:603
+msgid "Suggestions"
+msgstr ""
+
+#: scribe.php:607
+msgid "Details"
+msgstr ""
+
+#: scribe.php:671
+msgid "Account Information"
+msgstr ""
+
+#: scribe.php:681
+msgid "Your Information"
+msgstr ""
+
+#: scribe.php:682
+msgid "Your Install Details"
+msgstr ""
+
+#: scribe.php:1371
+msgid "Add the keyword to the HTML title tag of your content."
+msgstr ""
+
+#: scribe.php:1372
+msgid "Add the keyword to the beginning of your HTML title tag."
+msgstr ""
+
+#: scribe.php:1373
+msgid "Add the keyword to the META DESCRIPTION tag of your content."
+msgstr ""
+
+#: scribe.php:1374
+msgid ""
+"Add the keyword to the beginning of the META DESCRIPTION tag of your "
+"content."
+msgstr ""
+
+#: scribe.php:1375
+msgid "Reduce the number of times you use the keyword in your content."
+msgstr ""
+
+#: scribe.php:1376
+msgid "Include the keyword in the title attribute of your hyperlink/anchor text."
+msgstr ""
+
+#: scribe.php:1377
+msgid "Add this keyword more frequently to the page."
+msgstr ""
+
+#: scribe.php:1380
+msgid "Add the keywords to the HTML title tag of your content."
+msgstr ""
+
+#: scribe.php:1381
+msgid "Add the keywords to the beginning of your HTML title tag."
+msgstr ""
+
+#: scribe.php:1382
+msgid "Add the keywords to the META DESCRIPTION tag of your content."
+msgstr ""
+
+#: scribe.php:1383
+msgid ""
+"Add the keywords to the beginning of the META DESCRIPTION tag of your "
+"content."
+msgstr ""
+
+#: scribe.php:1384
+msgid "Reduce the number of times you use the keywords in your content."
+msgstr ""
+
+#: scribe.php:1385
+msgid "Include the keywords in the title attribute of your hyperlink/anchor text."
+msgstr ""
+
+#: scribe.php:1386
+msgid "Add these keywords more frequently to the page."
+msgstr ""
+
+#: scribe.php:1404
+msgid ""
+"The HTML title of the page contains less than three words, consider adding "
+"more words to the HTML title."
+msgstr ""
+
+#: scribe.php:1405
+msgid ""
+"The HTML title of the page is too long, consider shortening the title to "
+"less than 72 characters."
+msgstr ""
+
+#: scribe.php:1406
+msgid ""
+"The META DESCRIPTION is too long, consider shortening the description to "
+"less than 165 characters."
+msgstr ""
+
+#: scribe.php:1407
+msgid "The page is too short, consider adding more words to the page."
+msgstr ""
+
+#: scribe.php:1408
+msgid ""
+"No hyperlinks were found in the page, consider adding hyperlinks to "
+"relevant terms."
+msgstr ""
+
+#: scribe.php:1409
+msgid ""
+"No hyperlinks were found in the first part of the page, consider adding a "
+"hyperlink to the first paragraph."
+msgstr ""
+
+#: scribe.php:1410
+msgid ""
+"No Primary Keywords were found in your content. See the information under "
+"Improve Keyword Rank to improve the identification of a keyword."
+msgstr ""
+
+#: scribe.php:1622 scribe.php:1652 scribe.php:1682
+msgid "No Activity"
+msgstr ""
+
+#: scribe.php:1657
+msgid "Posted by"
+msgstr ""
+
+#: scribe.php:1719
+msgid "Unknown User"
+msgstr ""
+
+#: scribe.php:1722
+msgid ""
+"They also added the following comments:\n"
+"\n"
+"===\n"
+"\n"
+"%s\n"
+"\n"
+"==="
+msgstr ""
+
+#: scribe.php:1727
+msgid "Scribe Compatibility Check from %1$s at %2$s"
+msgstr ""
+
+#: scribe.php:1741
+msgid "Support Team,"
+msgstr ""
+
+#: scribe.php:1742
+msgid ""
+"This message is the result of running the Scribe SEO Compatibility Check on "
+"%1$s located at %2$s . The user provided the name %3$s and the email "
+"address %4$s. %5$s"
+msgstr ""
+
+#: scribe.php:1743
+msgid "The test results from the compatibility checker were as follows:"
+msgstr ""
+
+#: scribe.php:1745
+msgid "Regards,"
+msgstr ""
+
+#: scribe.php:1746
+msgid "Scribe SEO Plugin"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:3
+msgid "Page Analysis Metric"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:6
+msgid "Page Score: "
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:10
+#: views/backend/content-analysis/keyword-analysis.php:11
+#: views/backend/link-building/connections.php:142
+#: views/backend/link-building/connections.php:151
+#: views/backend/link-building/connections.php:168
+#: views/backend/link-building/connections.php:173
+#: views/backend/link-building/connections.php:176
+#: views/backend/meta-boxes/content-analysis.php:7
+#: views/backend/meta-boxes/content-analysis.php:21
+msgid "-"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:25
+msgid "Improve Page Structure"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:26
+msgid ""
+"To improve the overall structure of your page, review the recommendations "
+"below."
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:40
+msgid "Good job! There are no recommendations for your content."
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:51
+msgid "Flesch Score"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:52
+msgid "The Flesch Score describes comprehension difficulty for a passage of text."
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:53
+msgid "The Flesch score for this page is: %s"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:62
+msgid "Search Engine Example"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:63
+msgid ""
+"The following is an example of  how the content may appear in a Bing or "
+"Google search result.  You may make changes to this by editing the Title "
+"Tag and Meta Description."
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:86
+msgid "Improve Keyword Rank"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:87
+msgid "To improve the ranking of your keywords, review the recommendations below."
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:92
+#: views/backend/content-analysis/keyword-analysis.php:62
+#: views/backend/content-analysis/keyword-analysis.php:73
+msgid "Keyword"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:93
+msgid "Analysis & Recommendations"
+msgstr ""
+
+#: views/backend/content-analysis/document-analysis.php:120
+msgid ""
+"Note, the following term(s) are excluded from content analysis: %s. If you "
+"want to include these term(s) in the content analysis, please use the "
+"Target Term feature of Scribe Keyword Research."
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:4
+msgid "Keyword Analysis Metric"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:7
+msgid "Site Score: "
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:23
+msgid ""
+"Keyword Analysis inspects your page to compare the use of keywords against "
+"two metric - the usage of the keyword on your site (Search Metric) and "
+"recommended copywriting styles (Copy Styles). The stronger these two "
+"metrics, the better your score. To improve the score for a keyword, go to "
+"%1$s for more details."
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:23
+msgid "Content Optimizer"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:29
+msgid ""
+"The four quadrants (A, B, C, and D) show a comparison of how well the "
+"keywords Scribe found in your content will perform, based on two metrics:"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:32
+msgid "1. How well is the content optimized for the keyword?"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:33
+msgid ""
+"2. How well is the site where the content will be published optimized for "
+"the keyword?"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:36
+msgid "Here's a few details regarding what each quadrant means:"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:38
+msgid ""
+"<strong>A -</strong> The page and site are superbly optimized for the "
+"keyword used; this is the holy grail. <em>Example</em>: Copyblogger.com "
+"publishing an article that is well optimized for the term \"copywriting.\""
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:40
+msgid ""
+"<strong>B -</strong> The page is not well optimized for the keyword, but "
+"the site is. Optimize the page for the keyword and the keyword should move "
+"into the A quadrant. <em>Example</em>: Copyblogger.com publishing an "
+"article that is not well optimized for the term \"copywriting.\""
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:42
+msgid ""
+"<strong>C -</strong> The page is optimized for the keyword, but the site is "
+"not. This may be a new site or a new keyword that you're targeting. It will "
+"take some time to get more optimized content published for this keyword to "
+"eventually move the keyword to quadrant A. <em>Example</em>: "
+"Copyblogger.com publishing an article that is optimized for the keyword "
+"\"pizza.\""
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:44
+msgid ""
+"<strong>D -</strong> Neither the site nor the page are optimized for the "
+"keyword. This may be a new site. Start by optimizing the page for the "
+"keyword in order to move it into the C quadrant and then publish more "
+"optimized content over time to eventually move it to the A quadrant. "
+"<em>Example</em>: Copyblogger.com publishing an article that is not well "
+"optimized for the keyword \"pizza.\""
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:56
+msgid "Keyword Details"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:57
+msgid "A comprehensive assessment of every keyword found within the content."
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:63
+#: views/backend/content-analysis/keyword-analysis.php:74
+msgid "Grade"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:68
+#: views/backend/content-analysis/keyword-analysis.php:79
+msgid "Monthly Search Volume"
+msgstr ""
+
+#: views/backend/content-analysis/keyword-analysis.php:96
+msgid "%.2f%%"
+msgstr ""
+
+#: views/backend/content-analysis/tags.php:2
+msgid "The tags you have selected will be added when you save this post."
+msgstr ""
+
+#: views/backend/content-analysis/tags.php:4
+msgid "Consider adding the following semantically relevant terms to your Post Tags."
+msgstr ""
+
+#: views/backend/content-analysis/tags.php:7
+msgid "No tags were found during the content analysis."
+msgstr ""
+
+#: views/backend/content-analysis/tags.php:20
+msgid "Add to Post Tags"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:10
+msgid "This information is historical and may not be currently accurate."
+msgstr ""
+
+#: views/backend/keyword-research/details.php:19
+msgid "Overall Score for: %s"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:38
+msgid ""
+"The Content Score compares the amount of content on your site for the term "
+"versus the amount of content for sites that rank for the term. A score of "
+"100 indicates that your site content is on par with those ranking sites."
+msgstr ""
+
+#: views/backend/keyword-research/details.php:38
+#: views/backend/keyword-research/details.php:51
+#: views/backend/keyword-research/details.php:64
+#: views/backend/keyword-research/details.php:77
+msgid "Tell me more"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:42
+msgid "Link Score"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:51
+msgid ""
+"The Link Score compares the amount of links to your site to sites that are "
+"ranking for the selected term. A Link Score above 100 indicates that you "
+"are equal to or greater than the average number of sites that are ranking "
+"for the term."
+msgstr ""
+
+#: views/backend/keyword-research/details.php:55
+#: views/backend/link-building/analysis.php:63
+#: views/backend/link-building/analysis.php:70
+#: views/backend/link-building/connections.php:109
+#: views/backend/link-building/connections.php:118
+#: views/backend/link-building/connections.php:206
+#: views/backend/link-building/connections.php:212
+#: views/backend/meta-boxes/connections.php:64
+#: views/backend/meta-boxes/connections.php:73
+msgid "Page Authority"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:64
+msgid ""
+"The authority of your site, as reported by SEOMoz, is compared to the "
+"average page authority of sites that are ranking for the term. A score of "
+"100 or greater indicates that you are on par with the average authority of "
+"sites that are ranking."
+msgstr ""
+
+#: views/backend/keyword-research/details.php:68
+msgid "Social Media Shares"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:77
+msgid ""
+"For the this term, we compare the number of shares of your content on "
+"social media sites to the average sharing by sites that rank for the term. "
+"The higher this score, the better."
+msgstr ""
+
+#: views/backend/keyword-research/details.php:86
+msgid "Gender"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:88
+msgid "Male"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:89
+msgid "Female"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:96
+msgid "Age"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:106
+msgid "Avg. $ PPC"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:116
+msgid "Search Volume"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:118
+msgid "Annual"
+msgstr ""
+
+#: views/backend/keyword-research/details.php:119
+msgid "Monthly"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:3
+msgid ""
+"An error ocurred when retrieving keyword suggestions for the term you "
+"entered. Please %s and try again."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:3
+msgid "close this pop up"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:8
+msgid "Keyword Suggestions"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:10
+msgid "Google Trends"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:15
+msgid "This information is historical and may not be accurate."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:22
+#: views/backend/keyword-research/suggestions.php:23
+#: views/backend/keyword-research/suggestions.php:48
+#: views/backend/keyword-research/suggestions.php:49
+msgid "Target"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:23
+#: views/backend/keyword-research/suggestions.php:49
+msgid ""
+"A target keyword will be included in the Content Analysis of Scribe. You "
+"may select one target keyword."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:27
+#: views/backend/keyword-research/suggestions.php:53
+msgid ""
+"A list of recommended keywords for your consideration based on the keyword "
+"you entered."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:30
+#: views/backend/keyword-research/suggestions.php:31
+#: views/backend/keyword-research/suggestions.php:56
+#: views/backend/keyword-research/suggestions.php:57
+msgid "Popularity"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:31
+#: views/backend/keyword-research/suggestions.php:57
+msgid ""
+"Grades the overall popularity of a term. The higher the score, the more "
+"popular the term."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:34
+#: views/backend/keyword-research/suggestions.php:60
+msgid "Competition %"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:35
+#: views/backend/keyword-research/suggestions.php:61
+msgid ""
+"The number of pages on the web that are targeting the keyword from an SEO "
+"perspective. The higher the number, the more competitive the term."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:35
+#: views/backend/keyword-research/suggestions.php:61
+msgid "Competition"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:39
+#: views/backend/keyword-research/suggestions.php:40
+#: views/backend/keyword-research/suggestions.php:65
+#: views/backend/keyword-research/suggestions.php:66
+msgid "Date"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:40
+#: views/backend/keyword-research/suggestions.php:66
+msgid "The date when the keyword list was last generated."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:77
+msgid ""
+"You don't currently have any saved keyword searches. Please <a "
+"class=\"scribe-thickbox-close\" href=\"#\">close this pop up</a> and do "
+"some keyword research."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:79
+msgid "There are no keyword suggestions available for this keyword."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:102
+msgid "More Details"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:135
+msgid "Your keyword, will be included in your Content Analysis process."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:135
+msgid "close"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:141
+msgid ""
+"By selecting a Target Term above and clicking the Save Target Term button, "
+"your keyword will be included in the Content Analysis process."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:142
+msgid "Save Target Term"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:146
+#: views/backend/meta-boxes/keyword-research.php:64
+msgid "clear"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:157
+msgid "Headline Suggestions for"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:164
+msgid "Find out what people are saying for this keyword."
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:164
+msgid "Google+"
+msgstr ""
+
+#: views/backend/keyword-research/suggestions.php:182
+msgid "Trends for"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:6
+msgid ""
+"Like linking to external websites (using the %s tool), you can (and should) "
+"regularly use the authority of your own best content to link "
+"<em>internally</em>, to your own pages."
+msgstr ""
+
+#: views/backend/link-building/analysis.php:6
+msgid "Scribe Site Connector"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:8
+msgid ""
+"What should you link to? Again, to your best content — what we call your "
+"<em>cornerstone content</em>. Your best advice, your best thinking, and "
+"your best answers to the questions your audience comes up with again and "
+"again."
+msgstr ""
+
+#: views/backend/link-building/analysis.php:10
+msgid ""
+"Use <em>Scribe’s Internal Links function</em> to find and <a "
+"href=\"http://www.copyblogger.com/seo-site-quality/\" "
+"target=\"_blank\">link to that best content on your own site</a>, and make "
+"it work <em>for you</em> again and again."
+msgstr ""
+
+#: views/backend/link-building/analysis.php:18
+#: views/backend/link-building/connections.php:18
+msgid "Select Keywords:"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:21
+#: views/backend/link-building/connections.php:21
+msgid "Select from the list"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:26
+#: views/backend/link-building/connections.php:26
+msgid "Add Keyword"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:30
+#: views/backend/link-building/connections.php:30
+msgid "Keyword List:"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:32
+#: views/backend/link-building/connections.php:32
+msgid "Please add some keywords."
+msgstr ""
+
+#: views/backend/link-building/analysis.php:48
+#: views/backend/link-building/connections.php:48
+#: views/backend/meta-boxes/connections.php:20
+#: views/backend/meta-boxes/keyword-research.php:12
+#: views/backend/meta-boxes/link-building.php:34
+msgid "Research"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:62
+#: views/backend/link-building/analysis.php:69
+#: views/backend/link-building/connections.php:205
+#: views/backend/link-building/connections.php:211
+msgid "Page Title"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:64
+#: views/backend/link-building/analysis.php:71
+#: views/backend/link-building/connections.php:112
+#: views/backend/link-building/connections.php:121
+#: views/backend/meta-boxes/connections.php:67
+#: views/backend/meta-boxes/connections.php:76
+msgid "Links"
+msgstr ""
+
+#: views/backend/link-building/analysis.php:76
+#: views/backend/link-building/connections.php:217
+msgid "No results found. Please check your Scribe Settings or retry your research."
+msgstr ""
+
+#: views/backend/link-building/connections.php:4
+msgid "Difficulty Score"
+msgstr ""
+
+#: views/backend/link-building/connections.php:74
+msgid "Link Difficulty Score for %s"
+msgstr ""
+
+#: views/backend/link-building/connections.php:108
+#: views/backend/link-building/connections.php:117
+#: views/backend/meta-boxes/connections.php:63
+#: views/backend/meta-boxes/connections.php:72
+msgid "URL"
+msgstr ""
+
+#: views/backend/link-building/connections.php:110
+#: views/backend/link-building/connections.php:119
+#: views/backend/meta-boxes/connections.php:65
+#: views/backend/meta-boxes/connections.php:74
+msgid "Contact Name"
+msgstr ""
+
+#: views/backend/link-building/connections.php:111
+#: views/backend/link-building/connections.php:120
+#: views/backend/meta-boxes/connections.php:66
+#: views/backend/meta-boxes/connections.php:75
+msgid "Telephone"
+msgstr ""
+
+#: views/backend/link-building/connections.php:126
+#: views/backend/link-building/connections.php:127
+#: views/backend/link-building/connections.php:129
+#: views/backend/link-building/connections.php:131
+#: views/backend/link-building/connections.php:132
+#: views/backend/meta-boxes/connections.php:81
+#: views/backend/meta-boxes/connections.php:82
+#: views/backend/meta-boxes/connections.php:84
+#: views/backend/meta-boxes/connections.php:86
+#: views/backend/meta-boxes/connections.php:87
+msgid "Not Available"
+msgstr ""
+
+#: views/backend/link-building/site-connections.php:3
+msgid "Scribe - Site Connections"
+msgstr ""
+
+#: views/backend/link-building/site-connections.php:6
+msgid ""
+"A key part of online marketing is creating connections with others who are "
+"authoritative in their space. And with the Scribe Site Connection tool, we "
+"make it easy for you to find them."
+msgstr ""
+
+#: views/backend/link-building/site-connections.php:7
+msgid ""
+"Simply enter a keyword below and we will not only find external sites and "
+"social media users for that term, we will also show you a score of how your "
+"site compares to other authoritative sites."
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:4
+msgid "Account Status"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:6
+msgid "Active"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:6
+msgid "Inactive"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:10
+msgid "Account Type"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:12
+msgid "Professional"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:12
+msgid "Developer"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:35
+msgid "Evaluations"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:37
+msgid "%1$s Evaluations Per Month (1 Evaluation = 1 SEO Analysis)"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:41
+msgid "Evaluations Left"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:43
+#: views/backend/meta-boxes/account.php:56
+msgid "%1$s Evaluations as of %2$s"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:44
+#: views/backend/meta-boxes/account.php:57
+msgid "Monthly evaluations will be reset at %1$s"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:48
+msgid "Keyword Evaluations"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:50
+msgid "%1$s Evaluations Per Month (1 Evaluation = 1 Keyword Research)"
+msgstr ""
+
+#: views/backend/meta-boxes/account.php:54
+msgid "Keyword Evaluations Left"
+msgstr ""
+
+#: views/backend/meta-boxes/compatibility-info.php:5
+msgid "Your Name"
+msgstr ""
+
+#: views/backend/meta-boxes/compatibility-info.php:11
+msgid "Your Email"
+msgstr ""
+
+#: views/backend/meta-boxes/compatibility-info.php:17
+msgid "Your Issue or Comments"
+msgstr ""
+
+#: views/backend/meta-boxes/compatibility-info.php:20
+msgid ""
+"Clicking the <strong>Send Report</strong> button will forward the above "
+"form, along with the details about your installation below to the Scribe "
+"SEO support team."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:4
+#: views/backend/meta-boxes/content-analysis.php:29
+msgid "Site Score"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:15
+msgid "Keywords:"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:31
+msgid "It’s Time to Become the “Likeable Expert” in Your Niche"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:33
+msgid ""
+"The human brain is wired to seek out authority. One powerful way authority "
+"is demonstrated online is through <em>who’s linking to your content</em>."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:35
+msgid ""
+"Use <em>Scribe’s Difficulty Score</em> to determine how likely it is that "
+"another online publisher will link to you—the higher your score, the harder "
+"it will be earn external links … the lower your score, the easier."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:37
+msgid "Click here"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:37
+msgid ""
+"to study a few useful tutorials that’ll help you write the kind of content "
+"your audience is looking for."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:52
+msgid "Two Simple Strategies for Building External Links to Your Website"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:54
+msgid ""
+"Links coming to your site from other authoritative sites are crucial to "
+"your ranking in search engines. But how do you get those links when nobody "
+"knows who you are?"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:56
+msgid ""
+"<em>Scribe’s External Links function</em> shows you—and even gives you the "
+"available <em>contact information</em> of— websites that are ranking well "
+"for the keywords in your post."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:58
+msgid ""
+"Use it to execute two simple and powerful strategies for building external "
+"links: 1) Head over to one of the sites and %s, and 2) Contact the site "
+"owner with an %s for them, using the very best content you’ve written."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:58
+msgid "leave a relevant, smart comment"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:58
+msgid "offer to guest post"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:96
+msgid "Harness the Nearly Unlimited Networking Power of Social Networks"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:98
+msgid ""
+"The rise of social networking sites like Twitter, Facebook and Google+ has "
+"created the most powerful research and connection engine in history. With "
+"just a few clicks, you can read the innermost thoughts of the famous, or "
+"(more importantly) the desires, needs, and fears of your potential audience."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:100
+msgid ""
+"But how do you make sense of this firehose of information? The <em>Scribe "
+"Social Media function</em> does a lot of that for you."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:102
+msgid ""
+"Based on the keywords of your post, Scribe will seek out and display the "
+"relevant people and the discussions they’re having right now, so you can %s "
+"and %s."
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:102
+msgid "join the conversation"
+msgstr ""
+
+#: views/backend/meta-boxes/connections.php:102
+msgid "engage your audience"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:15
+msgid "Page Score"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:39
+msgid "Title Tag Needed"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:47
+msgid "Meta Description Needed"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:65
+#: views/backend/meta-boxes/keyword-research.php:4
+msgid "Evaluations left: "
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:65
+#: views/backend/meta-boxes/keyword-research.php:4
+msgid "as of %s"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:78
+msgid "Analyze"
+msgstr ""
+
+#: views/backend/meta-boxes/content-analysis.php:84
+#: views/backend/meta-boxes/keyword-research.php:20
+#: views/backend/meta-boxes/link-building.php:35
+msgid "Out of evaluations"
+msgstr ""
+
+#: views/backend/meta-boxes/keyword-research.php:8
+msgid "Enter a keyword"
+msgstr ""
+
+#: views/backend/meta-boxes/keyword-research.php:28
+msgid "Previous Keyword Research"
+msgstr ""
+
+#: views/backend/meta-boxes/keyword-research.php:28
+msgid "Previous Keyword Suggestions"
+msgstr ""
+
+#: views/backend/meta-boxes/keyword-research.php:42
+msgid "Previous Research"
+msgstr ""
+
+#: views/backend/meta-boxes/keyword-research.php:62
+msgid "Target Term"
+msgstr ""
+
+#: views/backend/meta-boxes/link-building.php:6
+msgid "Perform Content Analysis on the Content to enable Link Building."
+msgstr ""
+
+#: views/backend/meta-boxes/link-building.php:9
+msgid "Content analyzed. Link building ready."
+msgstr ""
+
+#: views/backend/meta-boxes/link-building.php:13
+msgid "Link Term"
+msgstr ""
+
+#: views/backend/meta-boxes/link-building.php:16
+msgid "-- Select Term --"
+msgstr ""
+
+#: views/backend/meta-boxes/link-building.php:28
+#: views/backend/meta-boxes/link-building.php:34
+msgid "Link Building"
+msgstr ""
+
+#: views/backend/misc/popup-error.php:2
+msgid "There was an error processing your request. Please try again."
+msgstr ""
+
+#: views/backend/settings/account.php:5
+msgid "Scribe - Account Information"
+msgstr ""
+
+#: views/backend/settings/account.php:8 views/backend/settings/account.php:28
+msgid "Upgrade Account"
+msgstr ""
+
+#: views/backend/settings/account.php:17
+msgid ""
+"Your account could not be retrieved. Please ensure that you have set your "
+"API key correctly on the <a href=\"%1$s\">settings</a> page."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:23
+#: views/backend/settings/class-main-settings.php:29
+msgid "Scribe - Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Scribe"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:30
+msgid "Settings"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:47
+msgid "Scribe Settings"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:60
+#: views/backend/settings/class-main-settings.php:61
+msgid "API Key"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:61
+msgid ""
+"Enter your API key for Scribe SEO. You will find your API key by logging in "
+"to https://my.scribeseo.com. Be sure to include the scribe- at the "
+"beginning of the key and that you do not have an extra space at the end "
+"after pasting it in the box. If you require an API key, go to "
+"https://purchase.scribeseo.com."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:70
+#: views/backend/settings/class-main-settings.php:71
+msgid "SEO Tool"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:71
+msgid ""
+"Use the drop down box to select the compatible SEO theme, framework or "
+"plugin you are using to set the title and meta description for your posts. "
+"See http://scribeseo.com/compatibility for a complete list of supported SEO "
+"themes and plugins."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:77
+msgid ""
+"The list of available dependencies could not be retrieved. Please check the "
+"%1$s and submit a support ticket."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:77
+msgid "compatibility page"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:81
+msgid ""
+"Please install and activate a valid SEO tool. You can see a full list of "
+"tools supported by Scribe at the Scribe SEO <a "
+"href=\"%s\">compatibility</a> page."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:98
+msgid ""
+"This tool was automatically chosen because it is the only supported tool "
+"you currently have activated."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:103
+msgid "-- Select One --"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:105
+msgid "Plugins"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:117
+msgid "Themes"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:137
+#: views/backend/settings/class-main-settings.php:138
+msgid "Your URL"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:138
+msgid ""
+"By default, the URL of your site is entered (and required). If your current "
+"WordPress site is not public, please enter a URL that is on the web."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:147
+#: views/backend/settings/class-main-settings.php:148
+msgid "Security Method"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:148
+msgid ""
+" By default, all communications with our servers are not encrypted. This "
+"means that we are not using SSL to hide your information on the web. For "
+"some, this may be acceptable. Other users may not want this. If you require "
+"SSL connections, then enable \"Enhanced SSL\" as described below. "
+"Otherwise, leave it at \"Basic Non-SSL.”"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:152
+msgid "Basic Non-SSL"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:153
+msgid "Enhanced SSL"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:160
+#: views/backend/settings/class-main-settings.php:161
+msgid "Permissions"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:161
+msgid ""
+"Scribe enables you to control which user roles have access to Scribe. Click "
+"the drop down box to restrict Permissions to Administrators, Editors, "
+"Authors, or Contributors or higher. Set the lowest Role within WordPress "
+"that is available to use Scribe."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:165
+msgid "Administrator"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:166
+msgid "Editor"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:167
+msgid "Author"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:168
+msgid "Contributor"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:174
+#: views/backend/settings/class-main-settings.php:175
+msgid "Post Types"
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:175
+msgid ""
+"By default, Posts and Pages in WordPress can use Scribe. If you have other "
+"Custom Post types, please select them for use with Scribe. Add a check mark "
+"next to each type of post that you want to be able to run Scribe SEO. No "
+"check mark indicates that Scribe will not be availble when editing the "
+"respective post type."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:212
+msgid ""
+"Your API key may not be valid. Please verify you have entered the correct "
+"key."
+msgstr ""
+
+#: views/backend/settings/class-main-settings.php:214
+msgid "Scribe requires Your URL to function properly."
+msgstr ""
+
+#: views/backend/settings/compatibility.php:6
+msgid "Scribe v4 Compatibility Report"
+msgstr ""
+
+#: views/backend/settings/compatibility.php:7
+#: views/backend/settings/compatibility.php:19
+msgid "Send Report"
+msgstr ""
+
+#: views/backend/settings/news.php:3
+msgid ""
+"SEO News from the best - <a href=\"http://searchengineland.com\">Search "
+"Engine Land</a> and <a href=\"http://www.searchenginejournal.com\">Search "
+"Engine Journal</a>"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://scribecontent.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Increase your online traffic with Scribe – the intelligent content "
+"marketing tool for creative content producers . Scribe combines in-depth "
+"semantic keyword research, sophisticated content analysis and optimization "
+"tools, and targeted social media insights to help you focus your content "
+"marketing efforts. You will need a Scribe API Key in order to use the "
+"application. If you do not have an API Key, go to <a "
+"href=\"http://scribecontent.com\" title=\"Get Scribe API "
+"Key\">http://scribecontent.com</a>. Please make sure you are using a "
+"supported theme or plugin. For an updated list, go to <a "
+"href=\"http://scribecontent.com/compatibility/\" title=\"Scribe "
+"Compatibility List\">http://scribecontent.com/compatibility/</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Copyblogger Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.copyblogger.com"
+msgstr ""
